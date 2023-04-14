@@ -1,0 +1,10 @@
+div{
+    border: 4px solid black;
+}
+body{
+    background-color: rgb(187, 245, 245);
+}
+p{
+    font-size: medium;
+    background-color: rgb(236, 131, 131);
+}
